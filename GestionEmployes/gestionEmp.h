@@ -5,12 +5,14 @@
 
 using namespace std;
 
+// Structure pour une date
 struct Date {
     int jour;
     int mois;
     int annee;
 };
 
+// Structure pour un employé
 struct Employe {
     string nom;
     string prenom;
@@ -18,6 +20,7 @@ struct Employe {
     Date datePrisePoste;
 };
 
+// Fonction de saisie de Date
 void saisirDate(Date& date) {
     cout << "Jour : ";
     cin >> date.jour;
@@ -27,6 +30,7 @@ void saisirDate(Date& date) {
     cin >> date.annee;
 }
 
+// Fonction de saisie d'employé
 void saisirEmploye(Employe& employe) {
     cout << "Nom : ";
     cin >> employe.nom;

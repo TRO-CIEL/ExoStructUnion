@@ -6,6 +6,7 @@
 
 using namespace std;
 
+// Déclaration des couleurs utilisables dans la console
 enum COULEURS {
 	black,          //  0
 	dark_blue,      //  1
