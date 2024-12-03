@@ -1,3 +1,7 @@
+// Nom du projet : RGB
+// Nom de l’auteur : Trompier Téo
+// Date de création : 26/11/2024
+
 #include "rgb.h"
 #include <iostream>
 
