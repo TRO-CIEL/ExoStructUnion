@@ -26,6 +26,7 @@ enum COULEURS {
 	white           // 15
 };
 
+// Clear la console
 void nettoyage()
 {
 	DWORD n;
