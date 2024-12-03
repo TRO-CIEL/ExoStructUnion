@@ -25,6 +25,7 @@ int main() {
 
 	CASIER tabCasier[2] = { c1, c2 };
 
+	// Affichage dans la console
 	cout << "rouleau : " << sizeof(rouleau) << " pa1 : " << sizeof(pa1) << " etatC1 : " << sizeof(etatC1) << " c1 : " << sizeof(c1) << " tabCasier : " << sizeof(tabCasier);
 	return 0;
 }
