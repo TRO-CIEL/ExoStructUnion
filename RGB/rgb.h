@@ -67,7 +67,7 @@ union UColor
 	unsigned char tabCol[3];
 };
 
-// Définition d'une couleur personnalisé dans la 
+// Définition d'une couleur personnalisé dans la console
 void definirCustomCouleur(unsigned int val) {
 	UColor couleur;
 	couleur.val = val;
