@@ -1,4 +1,4 @@
-// Nom du projet : Transgerbeur
+// Nom du projet : Gestion Employés
 // Nom de l’auteur : Trompier Téo
 // Date de création : 26/11/2024
 
