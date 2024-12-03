@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ee922340-fe5c-4f80-a9e8-29c77cf06158}</ProjectGuid>
-    <RootNamespace>Transgerbeur</RootNamespace>
+    <ProjectGuid>{bca264a9-1d9f-4c6e-8a64-ff44cc453eb1}</ProjectGuid>
+    <RootNamespace>RGB</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,10 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Transgerbeurcpp.cpp" />
+    <ClCompile Include="rgb.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Transgerbeur.h" />
+    <ClInclude Include="rgb.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
