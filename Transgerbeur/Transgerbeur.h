@@ -1,3 +1,7 @@
+// Nom du projet : Transgerbeur
+// Nom de l’auteur : Trompier Téo
+// Date de création : 26/11/2024
+
 #pragma once
 
 enum ETAT { vide = 0, palette = 1, rouleau = 2 };
